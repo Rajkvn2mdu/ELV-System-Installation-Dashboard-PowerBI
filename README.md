@@ -10,6 +10,36 @@ This Power BI dashboard provides a complete view of ELV system installation acti
 - DAX
 - Excel
 
+  # 🏗️ Data Modeling
+
+The project follows a **Star Schema data model** to improve reporting performance and maintain a structured relationship between installation data.
+
+### Model Design:
+
+**Fact Table**
+- Fact_Installation
+  - Installation Records
+  - Install Date
+  - Site ID
+  - System ID
+  - Technician ID
+  - Installation Status
+
+**Dimension Tables**
+- Dim_Date → Date analysis
+- Dim_Site → Site details
+- Dim_System → ELV system information
+- Dim_Technician → Technician details
+- Dim_Contractor → Contractor information
+
+### Modeling Approach:
+- Created relationships between fact and dimension tables
+- Built calculated measures using DAX
+- Used Date table for time-based analysis
+- Optimized dashboard performance using a structured model
+
+(Add Data Model Screenshot Here)
+
 #  Dashboard Pages
 
 ##   Home Dashboard
