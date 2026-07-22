@@ -1,45 +1,64 @@
-# ELV System Installation Dashboard
+#  ELV System Installation Dashboard
 
-## Project Overview
-This Power BI dashboard helps monitor ELV system installations across multiple sites.
+##   Project Overview
 
-## Tools Used
+This Power BI dashboard provides a complete view of ELV system installation activities across multiple sites. It helps management track project progress, analyze system performance, and monitor technician productivity.
+
+##  Tools Used
 - Power BI
 - Power Query
 - DAX
 - Excel
 
-## Dashboard Pages
-1. Home
-2. Overview
-3. Systems
-4. Technician Performance
+#  Dashboard Pages
 
-## Key Features
-- Installation Tracking
-- System-wise Analysis
-- Technician Performance Monitoring
-- Interactive Reporting
+##   Home Dashboard
+Provides a quick summary of overall installation status using key KPIs.
 
-## Business Benefits
-- Tracks installation progress.
-- Monitors technician productivity.
-- Provides management insights.
-- Supports decision making.
+**Answers:**  
+*"What is the current project status?"*
 
-## Project Screenshots
-
-##         Home Page
 ![Home Dashboard](Screenshots/Home.png)
-     
-##       Overview Page
 
-![Overview Dashboard](Screenshots/overview.png)
+---
 
-##      Systems Page
+##   Overview Dashboard
+Tracks installation progress across different sites and helps identify completion status.
 
-![Systems Dashboard](Screenshots/System.png)
+**Answers:**  
+*"Are projects progressing as planned?"*
 
-##    Technician Performance Page
-![Technician Dashboard](Screenshots/Technician%20performance.png)
+(Add Overview Page Image)
 
+---
+
+## ⚙️ Systems Dashboard
+Analyzes installation performance based on different ELV systems.
+
+**Answers:**  
+*"Which systems need more attention?"*
+
+(Add Systems Page Image)
+
+---
+
+## 👨‍🔧 Technician Performance Dashboard
+Monitors technician contribution and productivity.
+
+**Answers:**  
+*"Who are the top performers?"*
+
+(Add Technician Performance Image)
+
+---
+
+# 💡 Business Benefits
+
+✅ Tracks installation progress  
+✅ Monitors technician productivity  
+✅ Provides system-level insights  
+✅ Supports faster decision making  
+
+## 🚀 Outcome
+
+This dashboard converts installation data into meaningful insights, helping management improve project monitoring and resource planning.
