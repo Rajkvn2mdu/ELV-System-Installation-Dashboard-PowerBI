@@ -28,7 +28,7 @@ Tracks installation progress across different sites and helps identify completio
 **Answers:**  
 *"Are projects progressing as planned?"*
 
-(Add Overview Page Image)
+![Overview Dashboard](Screenshots/Overview.png)
 
 ---
 
@@ -38,27 +38,27 @@ Analyzes installation performance based on different ELV systems.
 **Answers:**  
 *"Which systems need more attention?"*
 
-(Add Systems Page Image)
+![Systems Dashboard](Screenshots/Systems.png)
 
 ---
 
-## 👨‍🔧 Technician Performance Dashboard
+##   Technician Performance Dashboard
 Monitors technician contribution and productivity.
 
 **Answers:**  
 *"Who are the top performers?"*
 
-(Add Technician Performance Image)
+![Technician Dashboard](Screenshots/TechnicianPerformance.png)
 
 ---
 
-# 💡 Business Benefits
+#   Business Benefits
 
 ✅ Tracks installation progress  
 ✅ Monitors technician productivity  
 ✅ Provides system-level insights  
 ✅ Supports faster decision making  
 
-## 🚀 Outcome
+##   Outcome
 
 This dashboard converts installation data into meaningful insights, helping management improve project monitoring and resource planning.
