@@ -30,16 +30,16 @@ This Power BI dashboard helps monitor ELV system installations across multiple s
 ## Project Screenshots
 
 ### Home Page
+![Home Dashboard](Screenshots/Home.png)
      
-
-
 ### Overview Page
 
-
+![Overview Dashboard](Screenshots/overview.png)
 
 ### Systems Page
 
-
-
+![Systems Dashboard](Screenshots/System.png)
 
 ### Technician Performance Page
+![Technician Dashboard](Screenshots/Technician%20performance.png)
+
