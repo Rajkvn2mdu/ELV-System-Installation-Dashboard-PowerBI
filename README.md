@@ -10,7 +10,7 @@ This Power BI dashboard provides a complete view of ELV system installation acti
 - DAX
 - Excel
 
-  # 🏗️ Data Modeling
+  #  Data Modeling
 
 The project follows a **Star Schema data model** to improve reporting performance and maintain a structured relationship between installation data.
 
@@ -38,7 +38,7 @@ The project follows a **Star Schema data model** to improve reporting performanc
 - Used Date table for time-based analysis
 - Optimized dashboard performance using a structured model
 
-(Add Data Model Screenshot Here)
+![Star Schema](Star_schema.png)
 
 #  Dashboard Pages
 
