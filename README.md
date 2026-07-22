@@ -54,11 +54,12 @@ Monitors technician contribution and productivity.
 
 #   Business Benefits
 
-✅ Tracks installation progress  
-✅ Monitors technician productivity  
-✅ Provides system-level insights  
-✅ Supports faster decision making  
+- Tracks installation progress  
+- Monitors technician productivity  
+- Provides system-level insights  
+- Supports faster decision making  
 
 ##   Outcome
 
 This dashboard converts installation data into meaningful insights, helping management improve project monitoring and resource planning.
+
