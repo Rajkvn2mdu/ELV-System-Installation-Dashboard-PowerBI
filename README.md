@@ -28,7 +28,7 @@ Tracks installation progress across different sites and helps identify completio
 **Answers:**  
 *"Are projects progressing as planned?"*
 
-![Overview Dashboard](Screenshots/Overview.png)
+![overview Dashboard](Screenshots/overview.png)
 
 ---
 
@@ -38,7 +38,7 @@ Analyzes installation performance based on different ELV systems.
 **Answers:**  
 *"Which systems need more attention?"*
 
-![Systems Dashboard](Screenshots/Systems.png)
+![System Dashboard](Screenshots/System.png)
 
 ---
 
@@ -48,7 +48,7 @@ Monitors technician contribution and productivity.
 **Answers:**  
 *"Who are the top performers?"*
 
-![Technician Dashboard](Screenshots/TechnicianPerformance.png)
+![Technician Dashboard](Screenshots/Technician%20performance.png)
 
 ---
 
