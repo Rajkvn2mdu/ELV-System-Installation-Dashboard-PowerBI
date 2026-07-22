@@ -32,7 +32,7 @@ Tracks installation progress across different sites and helps identify completio
 
 ---
 
-## ⚙️ Systems Dashboard
+##  Systems Dashboard
 Analyzes installation performance based on different ELV systems.
 
 **Answers:**  
